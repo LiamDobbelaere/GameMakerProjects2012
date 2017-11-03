@@ -1,0 +1,12 @@
+[values]
+maxval=3
+
+[received]
+cor[0]=$timezoneamerica
+cor[1]=$web
+cor[2]=$magiciso
+
+[response]
+cor[0]=show_message(string("Our time is now ")+string(show_time(0,0,0))+string(". In New York this is ")+string(show_time(-6,0,0))+string(".")+string(" In BC, Canada this is ")+string(show_time(-8,0,0))+string("."));
+cor[1]=execute_shell("C:\Users\User\AppData\Local\Google\Chrome\Application\chrome.exe","");
+cor[2]=execute_shell("F:\Tiptodog\Tools\MagicISO\MagicISO.exe","");

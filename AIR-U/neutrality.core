@@ -1,0 +1,20 @@
+[values]
+maxval=7
+
+[received]
+cor[0]=hello
+cor[1]=hi
+cor[2]=$add
+cor[3]=How are you?
+cor[4]=Gotta go
+cor[5]=bye
+cor[6]=I'm off to bed
+
+[response]
+cor[0]=Hi there :D
+cor[1]=Hi there :D
+cor[2]=
+cor[3]=I'm fine, thanks ;)
+cor[4]=Bye! Talk to you later :)
+cor[5]=Okay! Talk to you later!
+cor[6]=Okay, good night! Bye!

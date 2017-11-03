@@ -1,0 +1,10 @@
+[values]
+maxval=2
+
+[received]
+cor[0]=I'm sad
+cor[1]=Kinda sad
+
+[response]
+cor[0]=Aww, how comes? :(
+cor[1]=Aww, how comes?

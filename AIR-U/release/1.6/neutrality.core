@@ -1,0 +1,52 @@
+[values]
+maxval=23
+
+[received]
+cor[0]=Hi
+cor[1]=Hey
+cor[2]=Hiya
+cor[3]=Hey there
+cor[4]=Yo
+cor[5]=How are you?
+cor[6]=How're you?
+cor[7]=Alles goed?
+cor[8]=Hoe gaat het?
+cor[9]=Hoe gaat't?
+cor[10]=Bye
+cor[11]=Cya
+cor[12]=Off to bed, bye
+cor[13]=I'm off to bed, bye
+cor[14]=I'm off to bed, bye!
+cor[15]=I'm gonna go
+cor[16]=I'm gonna go, bye
+cor[17]=I'm gonna go, bye!
+cor[18]=I'm fine
+cor[19]=I'm good
+cor[20]=I'm okay
+cor[21]=forever alone people would appreciate this
+cor[22]=Good morning
+
+[response]
+cor[0]=Hello! :D
+cor[1]=Hello! :D
+cor[2]=Hello! :D
+cor[3]=Hello! :D
+cor[4]=Hello! :D
+cor[5]=I'm always fine. You?
+cor[6]=I'm always fine. Thanks.
+cor[7]=Ja hoor, altijd he ;D
+cor[8]=Altijd goed he ;D
+cor[9]=Altijd goed he ;D
+cor[10]=Bye! :)
+cor[11]=bye! :)
+cor[12]=bye! :D
+cor[13]=Bye! :)
+cor[14]=Bye! :)
+cor[15]=Bye! :)
+cor[16]=Bye! :)
+cor[17]=Bye! :)
+cor[18]=Good :)
+cor[19]=Okay, good then :)
+cor[20]=Okay good :)
+cor[21]=Haha xD
+cor[22]=Good morning! :)

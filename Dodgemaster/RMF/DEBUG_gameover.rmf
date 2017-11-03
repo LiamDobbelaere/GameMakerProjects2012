@@ -1,0 +1,9 @@
+song="GameOver Debug"
+beat[0]=30
+beat[1]=25
+beat[2]=20
+beat[3]=15
+beat[4]=10
+beat[5]=5
+beat[6]=1
+beats=6

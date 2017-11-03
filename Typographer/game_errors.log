@@ -1,0 +1,8 @@
+ERROR in
+action number 2
+of Create Event
+for object obj_block:
+
+Error in expression:obj_ply.x position 9: Unknown variable x
+
+

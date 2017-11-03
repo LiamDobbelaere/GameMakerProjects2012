@@ -1,0 +1,10 @@
+[getentries]
+entries=3
+[questions]
+q1=hi
+q2=howareu
+q3=yay
+[answers]
+a1=Hi
+a2=I'm fine thanks
+a3=good

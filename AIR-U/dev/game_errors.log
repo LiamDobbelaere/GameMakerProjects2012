@@ -1,0 +1,9 @@
+ERROR in
+action number 1
+of  Step Event
+for object obj_coreBot:
+
+In script check_input:In script history_checkstr:Error in code at line 47:   
+ini_set_string("config","history",global.history)                                            ^at position 43: Unknown variable history
+
+
